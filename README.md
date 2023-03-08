@@ -4,6 +4,7 @@
 
 
 <br>
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <img align="" alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=shebyclassic2018&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" />
 
