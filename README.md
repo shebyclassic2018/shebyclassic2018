@@ -1,13 +1,51 @@
-# SHABANI H. RAJABU
+### SHABANI H. RAJABU
+> Username: shebyclassic2018 <br>
+> Website: https://www.thegiant.co.tz
 
-<h3>A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania</h3>
+-----
 
-
+> <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true" />  
 <br>
 
+### About me
+A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania
 
-<img align="" alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="" alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=shebyclassic2018&hide=html,scss,stylus,jupyter%20notebook,css,shell,hack,less,batchfile,dockerfile,coffeeScript,typescript&theme=algolia&show_icons=true" />
 
-<br>
+
+-----
+
+
+
+### Professional - Software Engineer
+> Based on following aspects:-
+>  * Web developer,
+>  * Software developer (Mobile - (Android, iOS) and Desktop),
+>  * IoT Software developer,
+>  * Restful API consumer/creator,
+>  * Telegram BOT creator.
+
+
+
+
+
+-----
+
+
+### Contact information
+> Phone: +255 718 800 422, +255 745 681 617 <br>
+WhatsApp: +255 718 800 422, +255 745 681 617 <br>
+Instagram: Click [@iam_mastercodex](https://www.instagram.com/iam_mastercodex/) <br>
+Telegram BOT: Click [@thegiant_bot](http://t.me/iam_thegiant_bot)
+
+
+
+
+
+
+
+
+
+ 
+
+
