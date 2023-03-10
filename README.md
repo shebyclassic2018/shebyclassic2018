@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p> -->
-  > <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark" />  
+> <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark" />  
 
 ### About Me
 A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania
