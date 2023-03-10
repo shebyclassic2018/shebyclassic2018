@@ -1,6 +1,6 @@
 ### SHABANI H. RAJABU
 > 👤 shebyclassic2018 <br>
-> 🌐 https://www.thegiant.co.tz
+> 🌍 https://www.thegiant.co.tz
 
 -----
 
