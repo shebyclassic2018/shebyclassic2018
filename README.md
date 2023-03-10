@@ -11,7 +11,7 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
-  <p align="center">
+<!--   <p align="center">
     <a href="https://github.com/shebyclassic2018/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/shebyclassic2018/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -35,7 +35,7 @@
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
-  </p>
+  </p> -->
   > <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark" />  
 
 ### About Me
