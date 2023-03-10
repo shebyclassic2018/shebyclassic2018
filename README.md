@@ -1,6 +1,6 @@
 ### SHABANI H. RAJABU
-> Username: shebyclassic2018 <br>
-> Website: https://www.thegiant.co.tz
+> 👤 Username: shebyclassic2018 <br>
+> 🌐 Website: https://www.thegiant.co.tz
 
 -----
 
