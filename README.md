@@ -74,7 +74,7 @@ I'm a full stack developer with a passion for real estate in Tanzania. With my b
 
 ### Let's Connect
 > If you're interested in collaborating on a project or just want to chat about software development or real estate in Tanzania, feel free to reach out to me! You can find me on
-> ☎️ Phone: +255 718 800 422, +255 745 681 617 <br>
+<br>☎️ Phone: +255 718 800 422, +255 745 681 617 <br>
 🌱 WhatsApp: +255 718 800 422, +255 745 681 617 <br>
 🍁 Instagram: Click [@iam_mastercodex](https://www.instagram.com/iam_mastercodex/) then follow me for appreciation<br>
 ☘️ Telegram BOT: Click [@thegiant_bot](http://t.me/iam_thegiant_bot)
