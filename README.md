@@ -49,7 +49,6 @@ I'm a full stack developer with a passion for real estate in Tanzania. With my b
 -----
 
 
-
 ### Professional - Software Engineering
 > Based on following aspects:- <br>
 >  🏁 **Programming languages:** JavaScript, Python, Java, C++, PHP, Dart<br>
