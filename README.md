@@ -4,7 +4,7 @@
 
 -----
 
-> <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true" />  
+> <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark" />  
 <br>
 
 ### About Me
@@ -38,19 +38,6 @@ A passionate Full-Stack developer | interested in Real Estate Development  from 
 🍁 Instagram: Click [@iam_mastercodex](https://www.instagram.com/iam_mastercodex/) then follow me for appreciation<br>
 ☘️ Telegram BOT: Click [@thegiant_bot](http://t.me/iam_thegiant_bot)
 
-
------
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 
 
