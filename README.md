@@ -19,11 +19,11 @@ A passionate Full-Stack developer | interested in Real Estate Development  from 
 
 ### Professional - Software Engineer
 > Based on following aspects:- <br>
->  ✔️ Web developer,
->  * Software developer (Mobile - (Android, iOS) and Desktop),
->  * IoT Software developer,
->  * Restful API consumer/creator,
->  * Telegram BOT creator.
+>  ✔️ Web developer,<br>
+>  ✔️ Software developer (Mobile - (Android, iOS) and Desktop),<br>
+>  ✔️ IoT Software developer,<br>
+>  ✔️ Restful API consumer/creator,<br>
+>  ✔️ Telegram BOT creator.
 
 
 
