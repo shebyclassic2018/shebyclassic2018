@@ -80,7 +80,9 @@ I'm a full stack developer with a passion for real estate in Tanzania. With my b
 ☘️ Telegram BOT: Click [@thegiant_bot](http://t.me/iam_thegiant_bot)
 
 
-
+<p align="center">
+ Thanks for visiting my Github profile! 😊
+ </p>
 
 
 
