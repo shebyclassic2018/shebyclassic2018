@@ -50,13 +50,15 @@ I'm a full stack developer with a passion for real estate in Tanzania. With my b
 
 
 
-### Professional - Software Engineer
+### Professional - Software Engineering
 > Based on following aspects:- <br>
->  🏁 **Programming languages:** JavaScript, Python, Java, C++,<br>
->  🏁 Software developer (Mobile - (Android, iOS) and Desktop),<br>
->  🏁 IoT Software developer,<br>
->  🏁 Restful API consumer/creator,<br>
->  🏁 Telegram BOT creator.
+>  🏁 **Programming languages:** JavaScript, Python, Java, C++, PHP, Dart<br>
+>  🏁 **Web development:** HTML, CSS, Node.js, Express.js, MongoDB, MySQL,<br>
+>  🏁 **Mobile development:** Flutter, Android,<br>
+>  🏁 **Desktop development:** Electron, Qt, Flutter<br>
+>  🏁 **IoT development:** Raspberry Pi, Arduino, Esp32, Esp8266 <br>
+>  🏁 **API development:** REST <br>
+>  🏁 **DevOps:** Git
 
 
 
