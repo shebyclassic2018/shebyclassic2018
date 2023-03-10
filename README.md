@@ -40,7 +40,8 @@
 > <img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark" />  
 
 ### About Me
-A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania
+Hi there! 👋 <br>
+I'm a full stack developer with a passion for real estate in Tanzania. With my background in software engineering, I'm equipped to develop web, mobile, desktop, and IoT software solutions. I specialize in creating and consuming RESTful APIs and can even create Telegram BOT assistants!
 
 
 
