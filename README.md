@@ -19,7 +19,7 @@ A passionate Full-Stack developer | interested in Real Estate Development  from 
 
 ### Professional - Software Engineer
 > Based on following aspects:-
->  * Web developer,
+>  ✔️ Web developer,
 >  * Software developer (Mobile - (Android, iOS) and Desktop),
 >  * IoT Software developer,
 >  * Restful API consumer/creator,
